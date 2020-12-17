@@ -1,0 +1,55 @@
+/* add your CSS here */
+
+li{
+    list-style: none;
+    font-size: medium;
+    font-family: serif;
+}
+
+.Intresting_Facts{
+    font: italic 12pt serif;
+}
+
+span{
+    font: bold 13pt serif;
+}
+
+.Animal_Tracking{
+    border: 2px solid black;
+    height: auto;
+    width: 310px;
+    padding: 0.5em;
+    margin: 0.5em;
+    background-color: lightsalmon;
+}
+
+h3{
+    text-align: center;
+    font: bolder x-large serif;
+}
+
+.description_border{
+    border: 2px solid black;
+    height: auto;
+    width: auto;
+    padding: 0.5em;
+    margin: 0.1em;
+    background-color: yellowgreen;
+}
+
+img{
+    height: auto;
+    width: 300px;
+    margin: 0.2em;    
+} 
+
+body{
+    border: 3px solid black;
+    margin: 0.5em;
+    padding: 0.5em;
+    width: 344px;
+}
+
+.description{
+    font: 14pt serif;
+}
